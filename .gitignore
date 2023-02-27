@@ -29,3 +29,5 @@ agora-token-server
 
 # Environment variable
 .env
+
+.env.example
